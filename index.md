@@ -38,15 +38,6 @@ I approach research with technical versatility, working across the full spectrum
       <a href="./projects/cardiac-fiber-clustering">Full Details →</a>
     </p>
   </div>
-  
-  <div class="project-card">
-    <h3><a href="./projects/pancreatic-cyst-synthesis">Generative Frameworks for Synthesizing Pancreatic Cyst MRI</a></h3>
-    <p>Multi-modal generative framework for synthesizing realistic pancreatic cyst MRI data.
-Addresses critical data scarcity in rare pathologies with planned multi-phase open-source releases. </p>
-    <p class="project-links">
-      <a href="./projects/pancreatic-cyst-synthesis">Full Details →</a>
-    </p>
-  </div>
 </div>
 
 ## Publications 
@@ -55,7 +46,6 @@ Addresses critical data scarcity in rare pathologies with planned multi-phase op
 | Year | Title | Links |
 |------|-------|-------|
 | 2025 | Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories | [arXiv](https://arxiv.org/abs/2504.01953) |
-| 2025 | *Addressing Data Scarcity in Pancreatic Cyst Detection: A Mask-Conditional Generative Approach for MRI Synthesis* (in preparation) | — |
 
 ## Contact
 <div class="contact-info">
