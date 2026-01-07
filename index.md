@@ -24,11 +24,11 @@
 </p>
 
 <p> 
-  Much of my work focuses on cardiac diffusion MRI, where hundreds of thousands of fiber trajectories must be analyzed without labels or ground truth. These settings have shaped how I think about learning representations, favoring geometric structure, domain-informed features, and interpretability over purely black-box performance. 
+  Much of my work focuses on cardiac diffusion MRI, where hundreds of thousands of fiber trajectories must be analyzed without labels or ground truth. Over the course of my PhD, I have tested modeling assumptions against messy medical data, which has made me comfortable iterating through approaches that fail until the representation itself begins to reflect underlying structure. These settings have shaped how I approach representation learning—favoring geometric structure, domain-informed features, and interpretability over purely black-box performance.
 </p>
 
 <p> 
-  Before starting my PhD, I earned my B.S. in Computer Science from NYU Tandon. I enjoy working across the stack, from data preprocessing and model design to interpretation and visualization. Working with complex medical imaging data has made me comfortable systematically exploring and discarding modeling approaches before converging on representations that reveal meaningful structure in the data.
+  Before starting my PhD, I earned my B.S. in Computer Science from NYU Tandon. I enjoy working across the stack, from data preprocessing and model design to interpretation and visualization, with an emphasis on producing representations that support downstream analysis and clinical insight. 
 </p>
 
 ---
