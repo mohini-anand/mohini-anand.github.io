@@ -19,12 +19,17 @@
     </td>
   </tr>
 </table>
-<p>I'm a third-year PhD student, developing AI systems that transform complex medical imaging into actionable clinical insights. My research bridges two critical challenges in medical AI: (1) creating interpretable deep learning algorithms for analyzing cardiac Diffusion Tensor Imaging data, and (2) synthesizing high-fidelity medical imaging data to address data scarcity in rare pathologies. </p>
+<p> 
+  I’m a PhD student in Computer Science at Purdue University, where I work on representation learning for complex, structured data—primarily in medical imaging. I’m particularly interested in problems where meaningful structure exists but is not directly observable, evaluation metrics are weak or ambiguous, and modeling assumptions matter as much as algorithmic choice. 
+</p>
 
-<p>Before starting my Ph.D., I earned my B.S. in Computer Science from NYU Tandon School of Engineering.</p>
+<p> 
+  Much of my work focuses on cardiac diffusion MRI, where hundreds of thousands of fiber trajectories must be analyzed without labels or ground truth. These settings have shaped how I think about learning representations, favoring geometric structure, domain-informed features, and interpretability over purely black-box performance. 
+</p>
 
-<p>My mission is to democratize access to expert medical diagnosis through robust computational tools that augment physician capabilities. This vision is deeply personal—growing up with physician parents, I witnessed firsthand the challenges of providing quality healthcare in resource-constrained environments. Their dedication inspired my commitment to developing AI systems that can scale medical expertise to underserved populations worldwide.
-I approach research with technical versatility, working across the full spectrum of modern AI—from representation learning and transformers to generative models and LLM-based agents—always expanding my skillset to match the complexity of medical challenges.</p>
+<p> 
+  Before starting my PhD, I earned my B.S. in Computer Science from NYU Tandon. I enjoy working across the stack, from data preprocessing and model design to interpretation and visualization. Through my unique research experience in applying SOTA modelling approaches to complex medical data, I've become comfortable iterating through approaches that fail before converging on ones that reveal true structure in the data. 
+</p>
 
 ---
 ## Featured Projects
