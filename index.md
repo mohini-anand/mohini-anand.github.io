@@ -20,7 +20,7 @@
   </tr>
 </table>
 <p> 
-  I’m a PhD student in Computer Science at Purdue University, where I work on representation learning for complex, structured data—primarily in medical imaging. I’m particularly interested in problems where meaningful structure exists but is not directly observable, evaluation metrics are weak or ambiguous, and modeling assumptions matter as much as algorithmic choice. 
+  I’m a PhD student in Computer Science at Purdue University, where I work on representation learning for complex, structured data, primarily in medical imaging. I’m particularly interested in problems where meaningful structure exists but is not directly observable, evaluation metrics are weak or ambiguous, and modeling assumptions matter as much as algorithmic choice. 
 </p>
 
 <p> 
