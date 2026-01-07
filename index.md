@@ -28,7 +28,7 @@
 </p>
 
 <p> 
-  Before starting my PhD, I earned my B.S. in Computer Science from NYU Tandon. I enjoy working across the stack, from data preprocessing and model design to interpretation and visualization. Through my unique research experience in applying SOTA modelling approaches to complex medical data, I've become comfortable iterating through approaches that fail before converging on ones that reveal true structure in the data. 
+  Before starting my PhD, I earned my B.S. in Computer Science from NYU Tandon. I enjoy working across the stack, from data preprocessing and model design to interpretation and visualization. Working with complex medical imaging data has made me comfortable systematically exploring and discarding modeling approaches before converging on representations that reveal meaningful structure in the data.
 </p>
 
 ---
