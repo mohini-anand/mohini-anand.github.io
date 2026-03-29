@@ -13,7 +13,7 @@
     </td>
     <td style="border: none; vertical-align: top;">
       <h3 style="margin-top: 0;">PhD Student, Purdue University</h3>
-    <p><strong>Co-Advisors:</strong> Prof. Xavier Tricoche & Dr. Fiona Kolbinger<br>
+    <p><strong>Co-Advisors:</strong> Prof. Xavier Tricoche<br>
     <strong>Department:</strong> Computer Science<br>
     <strong>Research Focus:</strong> Medical AI, Representation Learning, Generative Models, LLM agents</p>
     </td>
