@@ -51,6 +51,7 @@
 | Year | Title | Links |
 |------|-------|-------|
 | 2025 | Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories | [arXiv](https://arxiv.org/abs/2504.01953) |
+| 2025 | AI Tool to Bridge Rural Disparities (Poster) | [ScholarWorks](https://scholarworks.indianapolis.iu.edu/items/3633f9f2-f0c8-4032-98ba-daa2dc502c04) |
 
 ## Contact
 <div class="contact-info">
