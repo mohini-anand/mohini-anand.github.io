@@ -45,7 +45,7 @@
   </div>
 </div>
 
-## Publications 
+## Publications/ Posters 
 
 
 | Year | Title | Links |
